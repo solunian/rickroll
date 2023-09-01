@@ -11,3 +11,8 @@ Congrats to the internet for selecting such a masterpiece as a meme!
 - have a website with fun versions of it
   - counter every time a new ip visits the website -> mongo?
   - cool alternate album art/portraits of rick
+
+## Sample Art
+
+![Pixel Rick](imgs/pixel_rick.png)
+
